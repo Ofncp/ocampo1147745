@@ -10,7 +10,7 @@ body{
    font-style: italic;
    font-variant: normal;
    text-transform: none;
-   background: url("https://cdn.pixabay.com/photo/2023/07/31/16/04/floral-8161314_640.png") no-repeat;
+   background: url("./images/flower.jpg") no-repeat;
    background-size: cover;
    background-position: center;
    background-position: relative;
